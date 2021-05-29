@@ -29,8 +29,22 @@ Data can be stored, updated, or deleted from a database.
 **LOCK TABLE:** concurrency Control
 
 [Introduction to DBMS](https://www.geeksforgeeks.org/database-management-system-introduction-set-1/)
-[DBMS as per Wikipedia](https://en.wikipedia.org/wiki/Database#Database_management_system)
 
+[DBMS as per Wikipedia](https://en.wikipedia.org/wiki/Database#Database_management_system)
 
 ## What is Data Modeling?
 
+
+![image](https://user-images.githubusercontent.com/68102477/120060597-f783b580-c09b-11eb-9089-7acec763ca3f.png)
+
+**Does data modeling happen before you create a database, or is it an iterative process?**
+
+It's definitely an iterative process. Data engineers continually reorganize, restructure, and optimize data models to fit the needs of the organization.
+
+**How is data modeling different from machine learning modeling?**
+
+Machine learning includes a lot of data wrangling to create the inputs for machine learning models, but data modeling is more about how to structure data to be used by different people within an organization. You can think of data modeling as the process of designing data and making it available to machine learning engineers, data scientists, business analytics, etc., so they can make use of it easily.
+
+![image](https://user-images.githubusercontent.com/68102477/120060706-94465300-c09c-11eb-9081-4c6b21891011.png)
+
+![image](https://user-images.githubusercontent.com/68102477/120061039-8eea0800-c09e-11eb-8cea-140fa1b33454.png)
