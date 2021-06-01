@@ -48,3 +48,9 @@ Machine learning includes a lot of data wrangling to create the inputs for machi
 ![image](https://user-images.githubusercontent.com/68102477/120060706-94465300-c09c-11eb-9081-4c6b21891011.png)
 
 ![image](https://user-images.githubusercontent.com/68102477/120061039-8eea0800-c09e-11eb-8cea-140fa1b33454.png)
+
+## Objectives of Normal Forms
+
+![image](https://user-images.githubusercontent.com/68102477/120099946-8c141380-c181-11eb-8152-c31742dd9083.png)
+
+[Objectives of Normalization - Insertion, Updation and Deletion Anomalies](https://en.wikipedia.org/wiki/Database_normalization)
