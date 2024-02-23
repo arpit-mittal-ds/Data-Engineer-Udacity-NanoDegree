@@ -1,10 +1,5 @@
-#  DATA WRANGLING WITH SPARK
-
-## Basic - Numbers Everyone Should Know
 
 ## Databricks
-
-![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/5fcaa0ea-2966-4a48-9681-ea9bffcd7735)
 
 The platform contains a distributed filesystem for storage, as well as integrating Azure data storage components, and provides a workspace for ingesting, processing, transforming, storing, and serving data to analytics and data science consumers.
 
@@ -12,20 +7,24 @@ Azure Databricks includes complete Apache Spark technologies and capabilities in
 
 Fully managed Spark clusters are provided for you in a collaborative, interactive workspace environment, where you can share notebooks with team members and explore data.
 
-### How databricks fit with Azure MDP
+![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/5fcaa0ea-2966-4a48-9681-ea9bffcd7735)
 
-![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/a536c210-b247-4313-9ed9-1e262211d790)
+
+
+### How databricks fit with Azure MDP
 
 One possible solution involving Azure Databricks would utilize Databricks between a data lake and Azure Synapse or PowerBI.
 
 In this scenario as an analytics platform, Azure data factory is used to ingest unstructured and structured data from business sources into Azure Data lake storage
 Azure Databricks is used to prepare, train, process, and transform data for use in Azure Synapse Analytics or Microsoft Power BI.
 
-![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/6698fb42-bbd7-4021-9bc2-c68066b9b2c5)
+![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/a536c210-b247-4313-9ed9-1e262211d790)
 
 Another way to use Azure Databricks would be to utilize Databricks between data sources and a data lake. In this scenario,
 Databricks provides data flows and processing, and can even be used to prepare data for machine learning solutions.
 A variation of this use would pull the data lake back into Azure Databricks and use Delta Lake. This variation would implement the lakehouse architecture design.
+
+![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/485dd5f5-7f8a-4e78-a3b5-d2e9998f8922)
 
 ### Spark and Jupyter Notebooks
 
@@ -64,12 +63,4 @@ To add and monitor the Apache Spark compute power associated with your workspace
 ![image](https://github.com/arpit-mittal-ds/Data-Engineer-Udacity-NanoDegree/assets/68102477/ea71b27b-1e31-4dd9-a713-78b5d5d2a596)
 
 
-# DEBUGGING AND OPTIMIZATION
 
-
-
-# DATA LAKES
-
-
-
-# PROJECT
